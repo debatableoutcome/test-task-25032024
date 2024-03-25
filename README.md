@@ -47,6 +47,8 @@ npm run dev # Или yarn dev
 ![Screenshot 2](./public/img/Screenshot-2.png)
 ![Screenshot 3](./public/img/Screenshot-3.png)
 
+### En:
+
 # The Planner
 
 The Planner allows you to save and delete tasks for specific dates, with the ability to filter tasks by date. To view details, simply click on it. This project, built with Vue 3 Options API, Vite, and PrimeVue Tailwind, demonstrates knowledge and skills in modern frontend technologies, focusing on effective architecture, design patterns, and advanced features of Vue.js 3, Vuex, and Vue Router. It illustrates a deep understanding of reactivity in Vue, state management in applications using Vuex, and a flexible and powerful routing system with Vue Router.
@@ -83,4 +85,4 @@ npm install # Or yarn install
 
 npm run dev # Or yarn dev
 
-Navigate to http://localhost:3000 to view the application.
+Navigate to http://localhost:5173 to view the application.
