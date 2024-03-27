@@ -28,7 +28,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/debatableoutcome/test-task-25032024.git
 ```
 
 2. Установите зависимости:
@@ -73,7 +73,7 @@ The Planner allows you to save and delete tasks for specific dates, with the abi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/debatableoutcome/test-task-25032024.git
 ```
 
 1. Install dependencies:
